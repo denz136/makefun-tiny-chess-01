@@ -1,3 +1,9 @@
+# tiny-chess-01 entry
+[![competition](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/denz136/makefun-tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/denz136/makefun-tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+Built for the make.fun bounty [tiny-chess-01](https://make.fun/bounty/tiny-chess-01).
+
 # tiny-chess-01 starter
 
 A working entry to fork: `main.py` plays every game through the env and
